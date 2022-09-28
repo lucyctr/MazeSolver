@@ -1,6 +1,4 @@
-///////////////////////////////////////////////////////////////
-/// maze.h file with MazeElement and
-/// Maze class
+// maze.h file with MazeElement and Maze class
 
 #ifndef x_Array
 #define x_Array
