@@ -1,6 +1,4 @@
-////////////////////////////////////////////////////////////////////
-/// maze.cpp file that implements functions
-///  for the MazeElement and Maze class
+// maze.cpp file that implements functions for the MazeElement and Maze class
 
 #include "maze.h"
 
