@@ -1,7 +1,5 @@
-///////////////////////////////////////////////////////////////////////////////////
-/// Main test method that parses the maze from the
-/// file into a 2D vector and runs a recursive maze
-/// solver to find the shortest path of maze
+// Main test method that parses the maze from the file into a 2D vector 
+// and runs a recursive maze solver to find the shortest path of maze
 
 
 #include <iostream>
